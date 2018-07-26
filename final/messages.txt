@@ -1,0 +1,6 @@
+Rob|A|Wi-fi|1 
+Kim|B|Cats|5 
+Diane|C|Lo-fi|3 
+Gina|D|Life|5 
+Lauren|E|Hackers|4 
+Stan|F|Screen|0 
